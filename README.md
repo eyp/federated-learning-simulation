@@ -24,3 +24,7 @@ At `src/simulation.py` line 10, change the values of these parameters:
 
 The most important argument is the _rounds_. More rounds will give more accuracy of the trained model.
 You'll be able to see the result printed in the standard output.
+
+    2042/2042 [==============================] - 16s 8ms/step - loss: 1.5411 - sparse_categorical_accuracy: 0.6575
+    
+    Process finished with exit code 0
